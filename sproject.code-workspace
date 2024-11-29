@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../sproject"
+		},
+		{
+			"path": "../mern"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mproject"
+	}
+}
